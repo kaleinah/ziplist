@@ -13,6 +13,6 @@ function zipListTheSimpleWay(list1, list2){
 const test1 =  ['a','b', 'c'];
 const test2 = [1,2,3];
 
-
+//it works
 console.log(zipList(test1, test2));
 console.log(zipListTheSimpleWay(test1, test2));
